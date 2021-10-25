@@ -4,14 +4,14 @@ Source codes for the paper of "Analyze COVID-19 CT images based on evolutionary 
 
 Gong Y, Sun Y, Peng D, et al. Analyze COVID-19 CT images based on evolutionary algorithm with dynamic searching space[J]. Complex & Intelligent Systems, 2021: 1-15.
 
-@article{gong2021analyze,
-  title={Analyze COVID-19 CT images based on evolutionary algorithm with dynamic searching space},
-  author={Gong, Yunhong and Sun, Yanan and Peng, Dezhong and Chen, Peng and Yan, Zhongtai and Yang, Ke},
-  journal={Complex \& Intelligent Systems},
-  pages={1--15},
-  year={2021},
-  publisher={Springer}
-}
+@article{gong2021analyze,//
+  title={Analyze COVID-19 CT images based on evolutionary algorithm with dynamic searching space},//
+  author={Gong, Yunhong and Sun, Yanan and Peng, Dezhong and Chen, Peng and Yan, Zhongtai and Yang, Ke},//
+  journal={Complex \& Intelligent Systems},//
+  pages={1--15},//
+  year={2021},//
+  publisher={Springer}//
+}//
 
 In this code, the EA-based NAS method is trained on the CIFAR100. If you're interested in the COVID-CT dataset, please check the following link: https://github.com/UCSD-AI4H/COVID-CT
 
