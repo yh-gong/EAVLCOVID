@@ -13,6 +13,6 @@ Gong Y, Sun Y, Peng D, et al. Analyze COVID-19 CT images based on evolutionary a
   publisher={Springer}  
 }
 
-In this code, the EA-based NAS method is trained on the CIFAR100. If you're interested in the COVID-CT dataset, please check the following link: https://github.com/UCSD-AI4H/COVID-CT
+In this code, the EA-based NAS method is evaluated on the CIFAR100. If you're interested in the COVID-CT dataset, please check the following link: https://github.com/UCSD-AI4H/COVID-CT
 
 As copyright and further studies, the code about generating the individuals or DNAs is removed from this source code. In the released paper, the rules of generating DNAs are detailed demenstrated, you can check the paper and complete the code. Sorry for the inconvenience.
