@@ -1,4 +1,4 @@
-# EAVLCOVID
+# EAVL-COVID
 
 Source codes for the paper of "Analyze COVID-19 CT images based on evolutionary algorithm with dynamic searching space". Very much apprciate if you could cite this paper when you get help from this code.
 
